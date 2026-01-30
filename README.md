@@ -21,7 +21,7 @@ This is my solutiuon for the [Blog preview card challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.png)
+![Project Screenshot](screenshot.PNG)
 
 ### Links
 
